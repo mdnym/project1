@@ -1,0 +1,15 @@
+button {
+    background: red;
+    padding: 10px 20px;
+    font-size: 15px;
+    color: white;
+    border: none;
+}
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 6px 27px;
+}
+a {
+    text-decoration: none;
+}
